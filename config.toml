@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "D5K Thoughts"
 theme = "start-bootstrap-clean-blog"
