@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "D5K Thoughts"
+theme = "start-bootstrap-clean-blog"
+
+[author]
+  name = "Derrick Showers="
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Just random thoughts on web and iOS, productivity, travel, and other things I'm into."
+  Author = "Derrick Showers"
+  email = "derrick@derrickshowers.com"
+  postSummariesFrontPage = 4
+  showReadTime = true
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/derrickshowers"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/derrickshowers"

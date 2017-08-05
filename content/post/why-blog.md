@@ -1,0 +1,28 @@
+---
+title: "Why Blog"
+date: 2015-05-25T00:00:00-00:00
+---
+
+Why blog? Glad you asked. Or maybe you didn’t. It’s possible that somehow you got to this site and have a limited amount to read, and this just happened to be where you ended up. Regardless of how you ended up here, allow me to explain my reasoning behind having a blog. You may not care, but hey, that’s what the back button is for.
+
+## The Decision
+
+Deciding whether or not to take the time to start a blog has been lingering in the back of my overcrowded brain for quite sometime now. I would go through periods of being serious about wanting to get it started, but then I’d get stuck for weeks on things like what platform should I use. WordPress? Some sort of static site generator? No, that’s overkill, why not just static HTML pages? Hmm. No, I want something easy to maintain. Back to WordPress. Once getting over that hurdle, I would spend then next few weeks deciding on content. Should it be about web development? Everyone knows more than me about x topic, so that’s lame. Maybe I should find a topic only I know stuff about. Crap! Back to web development. You get the idea…
+
+So here I am, on my first post, and it’s about why I want to start a blog–clearly all that time brainstorming has paid off (yeah, right!). One thing I’ve learned recently is that sometimes it takes jumping in head first if you ever want to get it done. In software engineering, web development, UI engineering–whatever it’s being called these days–there’s a huge focus behind brainstorming before writing your first line of code. That’s great! And, very necessary. Although sometimes that doesn’t translate well to everything else in life. Sure, this may end up lasting for a few months and then sit for eternity with a total of two posts, but at least it was attempted.
+
+## Why Blog? Again.
+
+All of that aside, back to the original question–why blog? Couple of reasons. First, and probably most importantly, giving back to the community in this industry is important. I’m completely self taught. Just 4 years ago I was working at Walt Disney World as a hotel manager. Now, I’m what I hope others would consider a pretty decent web developer. How did I learn? Blogs. Maybe not in those exact words, but blog meaning some piece of content written by someone else in the industry that wanted to pass on his/her knowledge. There never can be enough content–thing is, everyone learns in their own way. At least for me, it takes reading ten versions on the same topic until I reach that moment where everything clicks. We all understand things differently, and it takes time to find someone who thinks like you. Or maybe, the person who thinks like you is a mixture of three different people.
+
+The second reason it’s important to blog is more of a selfish reason. Have you ever tried to explain something to someone that you only knew a little bit about? Or, did you think you completely understood a concept, then tried to explain it to someone, only to find out that you really don’t know what the hell you were talking about. It’s probably safe to say we’ve all been there. Writing about something can enhance your understanding of a topic exponentially, not just because you are afraid people will criticize your inaccuracies, but purely based on putting the concept you just learned into words. My goal is, and has been for awhile, to learn new things on a regular basis. Sure I can head over to CodePen and fiddle around (see what I did there?), but then just letting it go let’s it all fall out of my brain, which is not good–and as I get older it seems that happens all too often.
+
+## Format
+
+What should you expect as far as content? I have no idea. Most likely a good amount centered around web development, but I have a huge passion for perfect workflows as well. For instance I’m a huge proponent of Evernote and have worked long and hard coming up with the PERFECT system (until I decide it’s not so perfect tomorrow…).
+
+As for structure, consistency between everything I post is key. I’m a big believer in writing so that all readers have an equal chance of understanding–a developer with 10+ years of experience to someone who’s just starting out. My style of learning also includes the need to understand things at a basic level, and then build on that. I’d much rather build something simple and understand exactly how it works rather than build something super complex and only get the basic gist. Now, that’s not always possible in a professional environment, but there are some basic principles you can take from it, such as if you don’t know what something means, ask questions. Ask many questions. For the purposes of the content on this site, I will try to explain everything, but I also won’t be building a new JS framework from the ground up in any one post.
+
+## Speaking of Questions...
+
+If you do have questions, or comments, or even complaints, please reach out to me. Yes, like everyone else, I have a lot going on and it feels like I never have any free time. But, I’ll do my best to help out whomever I can. Follow me on Twitter, email me at derrick@derrickshowers.com, or always feel free to comment.
