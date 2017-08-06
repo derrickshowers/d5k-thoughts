@@ -15,7 +15,6 @@ disqusShortname = "derrickshowers"
   email = "derrick@derrickshowers.com"
   postSummariesFrontPage = 4
   showReadTime = true
-  comments = true
 
 [[params.social]]
   title = "twitter"

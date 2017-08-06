@@ -26,3 +26,4 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Comments", name: "comments", widget: "hidden", default: "true"}
