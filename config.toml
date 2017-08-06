@@ -4,7 +4,7 @@ title = "D5K Thoughts"
 canonifyurls = true
 theme = "start-bootstrap-clean-blog"
 googleAnalytics = "UA-26064669-5"
-disqusShortname = "derrickshowers"
+disqusShortname = "d5k-thoughts"
 
 [author]
   name = "Derrick Showers="
