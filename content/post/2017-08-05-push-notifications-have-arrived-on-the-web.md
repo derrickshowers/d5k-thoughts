@@ -1,13 +1,11 @@
 ---
 title: Push Notifications Have Arrived on the Web
-description: >-
-  The story behind how push notifications arrived on the web and how to
-  implement them yourself.
+description: The story behind how push notifications arrived on the web and how to implement them yourself.
 slug: push-notifications
 date: 2015-05-27T18:35:41-07:00
-tags: '["web"]'
+tags: ["web"]
 image: /images/uploads/PushNotificationsFeaturedImage.jpg
-comments: 'true'
+comments: true
 ---
 Push notifications. I fondly remember watching Apple’s WWDC keynote highlighting this new type of notification. Apple claimed it would *push* to your device without the app running in the background (which was their way of saving battery life). It was [all the rage](http://www.imore.com/apple-announces-push-notification-services-iphone-30) in the newest version of iOS–iOS 3.0. Nowadays the term “push notification” has taken a slightly different meaning, but the concept is the same to what was announced back in 2008.
 
@@ -29,7 +27,7 @@ First, we need some basic stuff–a button and an event listener–so let’s do
     theButton.addEventListener('click', function() {
         subscribe();  // don't worry about this method quite yet, we'll create that later
     });
-    
+
 
 **push-notifications.js**
 
@@ -44,7 +42,7 @@ Next thing we need to do is tell our service worker what to do when a push is re
             });
         });
     })();
-    
+
 
 **service-worker.js**
 
@@ -53,7 +51,7 @@ All we’re doing here is creating a new listener for the ‘push’ event and s
 To get this thing up and running we just need to register that service worker JS in our main JS file (push-notifications.js). We do that like so:
 
     navigator.serviceWorker.register('/service-worker.js');
-    
+
 
 **push-notifications.js**
 
@@ -65,7 +63,7 @@ Now for the fun part. Let’s test this out. Cross your fingers, and click ‘En
         "gcm_sender_id": "123",
         "gcm_user_visible_only": true
     }
-    
+
 
 **manifest.json**
 
@@ -98,7 +96,7 @@ You should now have both your API key and project number. First, let’s take ca
 We’re almost ready to put together a [cURL request](http://code.tutsplus.com/tutorials/essential-command-line-tools-for-web-developers--net-28521) to test this out. Only one more thing we need and that’s the subscription id. Basically, it’s how you know who to send the push notification to. In the subscribe method (in push-notifications.js), add the following line under the ‘console.log’ that’s already there. This will give us the cURL command to run in the terminal (make sure to replace API_KEY, including the angle brackets, with the one you received in the developer console).
 
     console.log('curl --header "Authorization: key=<API_KEY>" --header "Content-Type: application/json" https://android.googleapis.com/gcm/send -d "{\\"registration_ids\\":[\\"' + subscription.subscriptionId + '\\"]}"');
-    
+
 
 **push-notifications.js**
 
