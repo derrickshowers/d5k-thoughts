@@ -7,7 +7,7 @@ theme = "start-bootstrap-clean-blog"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Just random thoughts on web and iOS, productivity, travel, and other things I'm into."
+  Description = "Just random thoughts on frontend dev (web + iOS), productivity, travel, and other things I'm into."
   Author = "Derrick Showers"
   email = "derrick@derrickshowers.com"
   postSummariesFrontPage = 4
