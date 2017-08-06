@@ -4,7 +4,7 @@ description: The story behind how push notifications arrived on the web and how 
 slug: push-notifications
 date: 2015-05-27T18:35:41-07:00
 tags: ["web"]
-image: /images/uploads/PushNotificationsFeaturedImage.jpg
+image: images/uploads/PushNotificationsFeaturedImage.jpg
 comments: true
 ---
 Push notifications. I fondly remember watching Apple’s WWDC keynote highlighting this new type of notification. Apple claimed it would *push* to your device without the app running in the background (which was their way of saving battery life). It was [all the rage](http://www.imore.com/apple-announces-push-notification-services-iphone-30) in the newest version of iOS–iOS 3.0. Nowadays the term “push notification” has taken a slightly different meaning, but the concept is the same to what was announced back in 2008.
