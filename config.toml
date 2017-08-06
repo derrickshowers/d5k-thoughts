@@ -1,6 +1,9 @@
 languageCode = "en-us"
 title = "D5K Thoughts"
+canonifyurls = true
 theme = "start-bootstrap-clean-blog"
+googleAnalytics = "UA-26064669-5"
+disqusShortname = "derrickshowers"
 
 [author]
   name = "Derrick Showers="
@@ -12,6 +15,7 @@ theme = "start-bootstrap-clean-blog"
   email = "derrick@derrickshowers.com"
   postSummariesFrontPage = 4
   showReadTime = true
+  comments = true
 
 [[params.social]]
   title = "twitter"
