@@ -20,10 +20,10 @@ The case of React Native is an interesting topic for me – I’ve spent most of
 ### What did I learn?
 
 * Teams can push updated JS bundles without resubmitting a binary to the App Store. Coming from web, the current situation on iOS is a huge change. If I break something, it’s in front of my users… potentially for a long time. It’s not just the time it takes for Apple to approve the app (which to be fair is getting *much* better), but users have to update the app and it’s even more important not to introduce new bugs with the fix.\
-  With JS bundles, the only time an app would need to be recompiled (and resubmitted) is when changing or adding a native component (at least that’s my understanding). *See [Facebook’s docs](https://facebook.github.io/react-native/docs/native-components-ios.html)for details on how to create a new native component.*
 
-* Concept of the bridge is important with React Native, especially in terms of performance. Native listeners use bridge to communicate with JS, JS then communicates back to a native component via this bridge. If JS communicates with native components too often, things might slow down, so this is where optimizations need to take place. Here’s an illustration I ripped off the internet – it’s also in the talk – helps understand this whole concept.\
-  \
+* With JS bundles, the only time an app would need to be recompiled (and resubmitted) is when changing or adding a native component (at least that’s my understanding). *See [Facebook’s docs](https://facebook.github.io/react-native/docs/native-components-ios.html)for details on how to create a new native component.*
+
+* Concept of the bridge is important with React Native, especially in terms of performance. Native listeners use bridge to communicate with JS, JS then communicates back to a native component via this bridge. If JS communicates with native components too often, things might slow down, so this is where optimizations need to take place. Here’s an illustration I ripped off the internet – it’s also in the talk – helps understand this whole concept.
 
 ![React Native bridge diagram](/images/uploads/ReactNativeBridge.jpg)
 
