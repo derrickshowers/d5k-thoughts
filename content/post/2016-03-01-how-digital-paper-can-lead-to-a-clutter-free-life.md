@@ -6,6 +6,7 @@ date: 2016-03-01T17:25:10-08:00
 image: images/uploads/DigitalPaperFeaturedImage.jpg
 tags: ["lifehack"]
 comments: true
+bgOverlayOpacity: 0.25
 ---
 
 Clutter. I can’t stand it. Call it OCD if you want, but it drives me crazy. I need a way to rid it from my life forever. But how? Each day after getting the mail, I spent too much energy, after a long day at work, to decide what to keep, and what to throw away (#firstworldproblems, I know). A credit card bill? I don’t need that, I can just look online. A few days later I need my account number as a result of my sign-in credentials no longer working. Why’d I throw that away? [Dagnabbit](https://www.youtube.com/watch?v=5nTaIu4jBoQ)! Ok, so I’ll keep that from now on. Now I check my pockets and find a bunch of crinkled-up receipts. I don’t need them, I’ll never need to return it or check warranty info. Famous last words. The problem is paper causes clutter. Maybe not all clutter, but a large percentage of it. I just can’t win.

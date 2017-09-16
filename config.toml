@@ -2,7 +2,7 @@ BaseURL = "https://blog.derrickshowers.com"
 languageCode = "en-us"
 title = "D5K Thoughts"
 canonifyurls = true
-theme = "hugo-clean-blog"
+theme = "slicky-snerrick"
 googleAnalytics = "UA-26064669-5"
 disqusShortname = "d5k-thoughts"
 

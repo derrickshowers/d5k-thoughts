@@ -1,3 +1,3 @@
-[submodule "themes/hugo-clean-blog"]
-	path = themes/hugo-clean-blog
-	url = git@github.com:derrickshowers/hugo-clean-blog.git
+[submodule "themes/slicky-snerrick"]
+	path = themes/slicky-snerrick
+	url = https://github.com/derrickshowers/slicky-snerrick-hugo-theme.git

@@ -6,6 +6,7 @@ date: 2017-07-29T18:45:18-07:00
 tags: ["iOS"]
 image: images/uploads/GrandCentral.jpg
 comments: true
+bgOverlayOpacity: 0.5
 ---
 There are so many concepts when it comes to handling concurrency, events, threads (whatever you want to call it) for iOS. Maybe it’s because I come from the world of browsers where we don’t really have to worry too much about this sort of thing. Maybe it’s because I don’t have to worry about it on a day-to-day basis. Whatever the reason, I always forget how this works. I’ll spend hours reading articles, searching Stack Overflow, watching videos, but then a month down the road I don’t remember anything. Here’s my attempt to remember it all and have a place of reference. If it benefits you, too, well then great!
 

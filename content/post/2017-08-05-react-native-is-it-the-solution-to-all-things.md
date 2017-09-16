@@ -6,6 +6,7 @@ date: 2017-06-17T18:39:36-07:00
 tags: ["react","web","mobile"]
 image: images/uploads/ReactNativeFeaturedImage.png
 comments: true
+bgOverlayOpacity: 0.7
 ---
 An engineer who can write code so it works everywhere is the ultimate dream for many companies. We try to do the same thing across one *stack* even (“full stack” developer anyone?). Is this a dream or a reality? React Native seems to be tackling this battle and *maybe* they’ve come close to cracking it. Or maybe it’ll never happen and we’ll all be writing code for specific platforms… FOREVER 😱. After all, this has been an issue for a long, long time (PC and Mac in the 80s and 90s, and I guess still?). Is React finally solving this?
 
