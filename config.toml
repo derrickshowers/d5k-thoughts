@@ -1,4 +1,3 @@
-BaseURL = "https://blog.derrickshowers.com"
 languageCode = "en-us"
 title = "D5K Thoughts"
 canonifyurls = true
