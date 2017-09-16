@@ -23,7 +23,8 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Darken background opacity percentage", name: "bgOverlayOpacity", widget: "select", options: ["0.0", "0.25", "0.5"]}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Comments", name: "comments", widget: "hidden", default: "true"}
