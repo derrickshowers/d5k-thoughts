@@ -112,7 +112,7 @@ class Car {
 
 Few things to note about all of this:
 
-* **`DSCar` vs `Car`... huh?** Objective-C doesn't allow namespacing so it's good practice to namespace your classes yourself to avoid collisions. This is why you have things like `NSNotificationCenter` and `UIButton`. 😃
+* **`DSCar` vs `Car`... huh?** Objective-C doesn't allow namespacing so it's good practice to namespace your classes yourself to avoid collisions. This is why you have things like `NSNotificationCenter` and `UIButton`. 😃 _Note: As pointed about by [@tewha](https://twitter.com/tewha) on the comments, this is really only important when building frameworks and not necessary in app code._
 * **What's private and what's not? 😵** At first glance it may seem a bit confusing with `@interface`s and `@implementation`s scattered all over the place (at least it did for me). We'll talk about those keywords [a bit later](#compiler-directives), but for now the easiest way to know what's public is _only_ what's defined in the header file. So, this class only allows you to see its `color` property and `changeColorTo(_:)` method. See the [categories section](#categories) further down for details on how `numberOfWheels` is private (via a class extension).
 * **Why is there an initializer in the Objective-C version?** This is necessary to set the default value for `numberOfWheels`. Don't worry too much about the weird syntax around it, this is generally how all initializers look in Objective-C. If you're curious as to why, read [this](https://stackoverflow.com/questions/2956943/why-should-i-call-self-super-init).
 
@@ -159,8 +159,7 @@ Compiler directives are all the keywords with an `@` at the beginning. This one 
 * `@property`: Instructs the compiler to write accessor methods (get and set) for a property. More about this under the [property accessors section](#property-accessors-instance-variables), but just know this is how you define properties. Public properties are defined in the header file, and private properties in the implementation file (using `@interface`...`@end`). Oh, and one more thing (see what I did there? 🙊)... with property definitions, come a list of parenthetical options which instruct the compiler how to auto-generate these accessor methods. You have probably seen this, it looks something like `@property (readonly nonatomic weak)`. Here are some examples:
     * `readonly`/`rewrite` (default: `rewrite`): Use a getter, no setter.
     * `nonatomic`/`atomic` (default: `atomic`): Nonatomic removes lock which prevents access from multiple threads. Should always be removed because of cost and checked at a higher level in program.
-    * `weak`/`strong` (default: `strong`): Adds weak reference.
-    * `copy`/`assign` (default: `assign`): Used to prevent mutating a value (e.g. `NSMutableString` passed as an immutable `NSString`). Good habit to use when mutable subclass exists.
+    * `weak`/`strong`/`copy`/`assign` (default: `strong`): `weak` is the same as in Swift. `copy` will create a strong reference, but the instance will be immutable (e.g. `NSMutableString` passed as an immutable `NSString`). Good habit to use when mutable subclass exists.  _(thanks for clarifying the differences here, [@tewha](https://twitter.com/tewha)... more in comments)_
 * `@synthesize`: Tells the compiler that an instance variable is backing an accessor (e.g. `_numberOfWheels` backs `numberOfWheels`).
 * `@class`: Tells the complier there's a class, used as a promise in the header file. Can also be used for compiler efficiency so header file does not need to be recompiled when dependent class is modified. _Note: Class still needs to imported in the implementation file._
 
@@ -210,6 +209,8 @@ As we discussed before (under [Compiler Directives](#compiler-directives)), `@pr
     return _numberOfWheels;
 }
 ```
+
+It's important to note, property accessors call a method, which you don't get from accessing an instance variable directly. Why is that important? There may be important side effects in the setter (or getter) that will not be called by accessing the instance variable directly.
 
 ### Categories
 
