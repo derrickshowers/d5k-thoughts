@@ -6,8 +6,10 @@ theme = "slicky-snerrick"
 googleAnalytics = "UA-26064669-5"
 disqusShortname = "d5k-thoughts"
 
-[author]
-  name = "Derrick Showers="
+[menu]
+  [[menu.main]]
+    Name = "derrickshowers.com"
+    URL = "https://derrickshowers.com"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
@@ -16,10 +18,15 @@ disqusShortname = "d5k-thoughts"
   email = "derrick@derrickshowers.com"
   postSummariesFrontPage = 4
   showReadTime = true
-
-[[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/derrickshowers"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/derrickshowers"
+  [[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/derrickshowers"
+    newTab = true
+  [[params.social]]
+    title = "github"
+    url = "https://github.com/derrickshowers"
+    newTab = true
+  [[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/derrickshowers"
+    newTab = true
