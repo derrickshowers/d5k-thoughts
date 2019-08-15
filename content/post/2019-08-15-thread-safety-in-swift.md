@@ -15,7 +15,7 @@ comments: 'true'
 
 "Immutable models! Immutable models! Immutable models! But why? They're THREAD SAFE!" 🥺
 
-Ok ok, I get it. All is right in the world ONLY when threads are SAFE. Always. But what exactly does that means? 🤔 I get the basic principle.. thread safety means a value should not be accessed by multiple concurrent threads, or else bad things happen. 😈 For instance, an algorithm powering an ATM isn't thread safe, and multiple people withdraw money from the same bank at the same time... well, uhh... UH OH! 💸👋 All that makes sense, but I wanted to _see_ what can happen when two threads access a value at the same time (causing a **race condition**). In doing so, I found breaking it down into something super simple actually quite easy to grok (in practice, the root of thread safety is buried layers of abstractions away). So that's what I'd like to do here.
+Ok ok, I get it. All is right in the world ONLY when threads are SAFE. Always. But what exactly does that mean? 🤔 I get the basic principle.. thread safety means a value should not be accessed by multiple concurrent threads, or else bad things happen. 😈 For instance, an algorithm powering an ATM isn't thread safe, and multiple people withdraw money from the same bank at the same time... well, uhh... UH OH! 💸👋 All that makes sense, but I wanted to _see_ what can happen when two threads access a value at the same time (causing a **race condition**). In doing so, I found breaking it down into something super simple actually quite easy to grok (in practice, the root of thread safety is buried layers of abstractions away). So that's what I'd like to do here.
 
 Let's start out with a jar of 500 dog treats (I have very spoiled pups 🐶).
 
@@ -89,7 +89,7 @@ Here's the output:
 
 Hmm... these spoiled pups got whatever they wanted! 🤔 This is because we removed treats from the jar on a background thread we put to sleep for 2 seconds. The `guard` at the beginning of the method is executed at the same time, when there are plenty of treats in the jar. Both threads are accessing the `dogTreats` value at the same time... before it gets updated!
 
-One way to fix this is by using `NSLock`. However, this can be a little risky because if you lock a thread without unlocking it (or accidentally lock the same thread twice) you're caught in a **DEADLOCK**. 😱😱😱
+One way to fix this is by using `NSLock`. However, this can be a little risky because if you lock a thread without unlocking it (or accidentally lock the same thread twice) you're caught in a [**DEADLOCK**](https://en.wikipedia.org/wiki/Deadlock). 😱😱😱
 
 Here is `dispenseTreat` rewritten using `NSLock`:
 
