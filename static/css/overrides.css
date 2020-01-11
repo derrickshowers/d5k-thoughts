@@ -1,0 +1,21 @@
+.short-post a {
+  text-decoration: none;
+  color: #404040;
+}
+
+.short-post a:hover,
+.short-post a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+
+.short-post .content p {
+  font-size: 16px;
+}
+
+.post-preview .post-meta {
+  color: gray;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}

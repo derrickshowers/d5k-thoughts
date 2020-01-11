@@ -18,6 +18,7 @@ disqusShortname = "d5k-thoughts"
   email = "derrick@derrickshowers.com"
   postSummariesFrontPage = 4
   showReadTime = true
+  customCSS = ["css/overrides.css"]
   [[params.social]]
     title = "twitter"
     url = "https://twitter.com/derrickshowers"
