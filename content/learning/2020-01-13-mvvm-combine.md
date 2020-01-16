@@ -18,6 +18,6 @@ tags: ["swift"]
 * Data layer mostly makes sense, creating a data task that returns a publisher using `Decodable` to map server data to response object
 * Still not 💯 clear on what `eraseToAnyPublisher` is doing 🤔
 
-Link to work done so far: [Github](https://github.com/help-debug-examples/RWTutorial-CombineWeatherApp/releases/tag/DataLayer)
+Link to work done so far: [Github](https://github.com/help-debug-examples/RWTutorial-CombineWeatherApp/tree/part1-datalayer)
 
 To be continued...
