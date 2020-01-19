@@ -12,17 +12,19 @@ tags: ["culinary"]
         * Stovetop, direct heat.
         * Slow transfer of heat, but good for cooking outside more than inside (think meats with charred outside, juicy inside).
     2. Convection
-        * Equalized heat distribution through gases or liquids
+        * Equalized heat distribution through gases or liquids.
         * Example is boiling potatoes (although conduction occurs once heat reached potato's skin).
+        * Convection ovens use air to evenly heat food.
         * Probably also Sous-vide?
     3. Radiation
         * Two different types: infrared and microwave.
-        * Oven is infrared. Interesting, glass allows better transfer of infrared heat, so glass baking dishes should be lowered 25 degrees.
+        * Oven is infrared. Interestingly, glass allows better transfer of infrared heat, so glass baking dishes should be lowered 25 degrees.
         * Microwave shorter waves that get deeper into food, good for foods with lots of moisture, but also removes moisture.
 * Browning
     * Two types, caramelization and maillard reduction.
     * Caramelization is specifically for sugars. First sugar turns into a syrup, then eventually brown.
-    * At 338° is when sugar starts browning.
+    * Onions are caramelized because of starches in them.
+    * 338° is when sugar starts browning.
     * Maillard reduction is browning process for foods not primarily sugar or starch. Chemical biproduct is produced which changes flavor and aroma. Think roasted meats, coffee, chocolate, dark beer.
     * Cannot brown meats in water/liquid because water never rises about 212° (except under pressure!) which is why meats are browned before adding liquids
 * Coagulation is how egg whites turn into solids
