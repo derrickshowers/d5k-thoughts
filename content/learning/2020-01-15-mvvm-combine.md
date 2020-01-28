@@ -4,7 +4,7 @@ date: 2020-01-15T00:00:00-00:00
 slug: mvvm-combine-3
 type: short-post
 link: https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
-tags: ["swift"]
+tags: ["swift", "ios"]
 ---
 
 * Coordinator pattern would work best for navigation, but out of scope for this tutorial. Instead provides a clean factory method (builder) for the view model to use to create a view and return it back to its view for navigation in SwiftUI.
