@@ -4,7 +4,7 @@ date: 2020-01-14T00:00:00-00:00
 slug: mvvm-combine-2
 type: short-post
 link: https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
-tags: ["swift"]
+tags: ["swift", "ios"]
 ---
 
 * `ObservableObject` means that the class has properties that can be used as bindings.

@@ -4,7 +4,7 @@ date: 2020-01-22T00:00:00-00:00
 slug: combine-practical-intro
 type: short-post
 link: https://youtu.be/RysM_XPNMTw
-tags: ["swift"]
+tags: ["swift", "ios"]
 ---
 
 * Good overview in the beginning, second part goes over simple app example using combine in a single view controller.
