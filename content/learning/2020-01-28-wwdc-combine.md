@@ -1,7 +1,7 @@
 ---
 title: "WWDC: Introducing Combine"
 date: 2020-01-28T00:00:00-00:00
-slug: masterclass-astronaut-training
+slug: wwdc-intro-combine
 type: short-post
 link: https://developer.apple.com/videos/play/wwdc2019/722/
 tags: ["swift", "ios"]
