@@ -4,7 +4,7 @@ date: 2020-01-24T00:00:00-00:00
 slug: effective-objc-item-9
 type: short-post
 link: https://www.effectiveobjectivec.com
-tags: ["objective-c", "ios"]
+subjects: ["objective-c", "ios"]
 ---
 
 * Item 9: Use the Class Cluster Pattern to Hide Implementation Detail

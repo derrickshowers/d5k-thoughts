@@ -4,7 +4,7 @@ date: 2020-02-16T01:00:00-00:00
 slug: masterclass-launch-and-drag
 type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
-tags: ["miscellaneous"]
+subjects: ["miscellaneous"]
 ---
 
 * The feels of launching into space

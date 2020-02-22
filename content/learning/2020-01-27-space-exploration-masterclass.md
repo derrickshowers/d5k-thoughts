@@ -4,7 +4,7 @@ date: 2020-01-27T00:00:00-00:00
 slug: masterclass-astronaut-training
 type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
-tags: ["miscellaneous"]
+subjects: ["miscellaneous"]
 ---
 
 * Discussion around what astronauts need to know to be able to go to space, beyond obvious things like good health.

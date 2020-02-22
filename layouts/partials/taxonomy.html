@@ -1,0 +1,19 @@
+{{ if .Params.tags }}
+  tagged with
+  {{ range $index, $tag :=  .Params.tags }}
+    {{- if eq $index 0 -}}
+      <a href="/tags/{{ urlize . }}">{{ lower . }}</a>
+    {{- else -}}
+      , <a href="/tags/{{ urlize . }}">{{ lower . }}</a>
+    {{- end -}}
+  {{ end }}
+{{ else if .Params.subjects }}
+  tagged with subject(s)
+    {{ range $index, $subject :=  .Params.subjects }}
+      {{- if eq $index 0 -}}
+        <a href="/subjects/{{ urlize . }}">{{ lower . }}</a>
+      {{- else -}}
+        , <a href="/subjects/{{ urlize . }}">{{ lower . }}</a>
+      {{- end -}}
+    {{ end }}
+{{ end }}

@@ -4,7 +4,7 @@ date: 2020-01-23T00:00:00-00:00
 slug: professional-chef-food-safety
 type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
-tags: ["culinary"]
+subjects: ["culinary"]
 ---
 
 * 3 types of contaminants: chemical (cleaning supplies), physical (plastic), biological (primary)

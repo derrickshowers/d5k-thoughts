@@ -4,7 +4,7 @@ date: 2020-02-15T10:00:00-00:00
 slug: wwdc-combine-in-practice
 type: short-post
 link: https://developer.apple.com/wwdc19/721
-tags: ["swift", "ios"]
+subjects: ["swift", "ios"]
 ---
 
 * Notification center supports exposing its notification as a publisher.

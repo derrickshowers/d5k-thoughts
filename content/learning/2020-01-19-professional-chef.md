@@ -4,7 +4,7 @@ date: 2020-01-19T00:00:00-00:00
 slug: professional-chef-food-science
 type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
-tags: ["culinary"]
+subjects: ["culinary"]
 ---
 
 * Heat Transfer (3 ways)

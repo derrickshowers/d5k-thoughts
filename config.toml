@@ -31,3 +31,7 @@ disqusShortname = "d5k-thoughts"
     title = "linkedin"
     url = "https://www.linkedin.com/in/derrickshowers"
     newTab = true
+
+[taxonomies]
+  tag = "tags"
+  subject = "subjects"

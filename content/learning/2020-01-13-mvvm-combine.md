@@ -4,7 +4,7 @@ date: 2020-01-13T00:00:00-00:00
 slug: mvvm-combine-1
 type: short-post
 link: https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
-tags: ["swift", "ios"]
+subjects: ["swift", "ios"]
 ---
 
 * Overview on MVVM

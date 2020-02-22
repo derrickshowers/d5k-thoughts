@@ -4,7 +4,7 @@ date: 2020-01-28T00:00:00-00:00
 slug: wwdc-intro-combine
 type: short-post
 link: https://developer.apple.com/videos/play/wwdc2019/722/
-tags: ["swift", "ios"]
+subjects: ["swift", "ios"]
 ---
 
 * Current async interfaces (iOS 12 and below):
