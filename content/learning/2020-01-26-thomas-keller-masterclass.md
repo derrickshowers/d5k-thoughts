@@ -4,7 +4,7 @@ date: 2020-01-26T00:00:00-00:00
 slug: masterclass-sous-vide-salmon
 type: short-post
 link: https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques-iii-seafood-sous-vide-and-desserts
-tags: ["culinary"]
+subjects: ["culinary"]
 ---
 
 * Early sous vide example was slow cooking chicken in milk.

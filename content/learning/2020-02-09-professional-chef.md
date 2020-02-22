@@ -4,7 +4,7 @@ date: 2020-02-09T11:00:00-00:00
 slug: professional-chef-sous-vide
 type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
-tags: ["culinary"]
+subjects: ["culinary"]
 ---
 
 * Basic goal of any cooking: maximize the organoleptic qualities (colors, juiciness, tenderness, flavor) while guaranteeing its safety and shelf life.
