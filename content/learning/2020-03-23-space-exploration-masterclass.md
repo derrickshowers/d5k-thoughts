@@ -1,6 +1,6 @@
 ---
 title: "Chris Hadfield's Masterclass: Navigation"
-date: 2020-02-23T20:00:00-00:00
+date: 2020-03-23T20:00:00-00:00
 slug: masterclass-navigation
 type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
