@@ -7,7 +7,7 @@ link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-explorati
 subjects: ["miscellaneous"]
 ---
 
-**Life Support Systems***
+**Life Support Systems**
 
 * Oxygen
     * Machinery is used (versus trying to grow and use trees) to extract carbon dioxide, releasing the carbon and recirculating the oxygen.
