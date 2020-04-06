@@ -17,4 +17,4 @@ Jotted this down awhile ago as something I wanted to learn more about. I think i
 * Probably easier with a specific use case, but tried to put something together in a gist to describe a simple case where you want all models in your app to conform to a protocol where one of the properties is generic (in this case, `data`).
 * In Combine this is important because the input type of the publisher and subscriber is generic, but must match each other.
 
-_Gist: https://gist.github.com/derrickshowers/598179ead29b40e5efb795db563b7fdb_
+_See [Gist](https://gist.github.com/derrickshowers/598179ead29b40e5efb795db563b7fdb)_
