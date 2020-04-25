@@ -4,7 +4,7 @@ date: 2020-04-13T14:00:00-00:00
 slug: lldb-debugging-overview
 type: short-post
 link: https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49
-subjects: ["xcode", "ios", “debugging”]
+subjects: ["xcode", "ios", "debugging"]
 ---
 
 The other day I [posted](https://blog.derrickshowers.com/learning/lldb-debugging-ui) about lldb debugging to debug the UI and that took me down a bit of a rabbit hole. So I stopped! And saved this article I found for another rainy day. Luckily it is _actually_ rainy today, so here we go.
