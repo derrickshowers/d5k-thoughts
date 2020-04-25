@@ -4,7 +4,7 @@ date: 2020-04-07T14:00:00-00:00
 slug: lldb-debugging-ui
 type: short-post
 link: https://medium.com/ios-os-x-development/dynamically-modify-ui-via-lldb-expression-1b354254e1dd
-subjects: ["xcode", "ios", “debugging”]
+subjects: ["xcode", "ios", "debugging"]
 ---
 
 I can never remember how to use LLDB when it comes time, and usually that’s in the most high pressure of moments. Jotting down a few notes on how to debug UI using LLDB. Some really powerful stuff here. See linked resource for more context and further details.
