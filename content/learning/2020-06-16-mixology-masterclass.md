@@ -20,7 +20,7 @@ subjects: ["culinary"]
 **Ryan’s cocktail: Beeswax Old Fashioned**
 
 * Infuse whiskey with beeswax (50g to 350g)
-* Sous vide for 140ºF for 2 hours
+* Sous vide for 160ºF for 2 hours, freeze for 1 hour
 * Line bottle with beeswax
 * How to make:
     * 350g beeswax whiskey
