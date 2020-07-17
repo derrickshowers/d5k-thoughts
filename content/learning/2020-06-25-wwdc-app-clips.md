@@ -4,7 +4,7 @@ date: 2020-06-25T14:00:00-00:00
 slug: wwdc-2020-app-clips-other-businesses
 type: short-post
 link: https://developer.apple.com/wwdc20/10118
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 Not really applicable unless you have a Yelp-like app, but interesting to learn about how App Clips are all separate apps from the user perspective, but all just open your app. Developer is responsible for handling different “skins” of the app for each business.

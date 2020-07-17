@@ -4,7 +4,7 @@ date: 2020-07-06T14:00:00-00:00
 slug: wwdc-2020-playgrounds-books
 type: short-post
 link: https://developer.apple.com/wwdc20/10654
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 Not a lot of in depth information on creating a Playgrounds book, just comparing the differences between Mac and iPad. Second half of the session is a demo where a button is conditionally shown on iPad for an ARKit experience (cool that you can do ARKit in Playgrounds!).

@@ -4,7 +4,7 @@ date: 2020-06-20T17:00:00-00:00
 slug: wwdc-2020-state-of-the-union
 type: short-post
 link: https://developer.apple.com/wwdc20/102
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 * Apple Silicon vs Intel

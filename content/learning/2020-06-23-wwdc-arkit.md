@@ -4,7 +4,7 @@ date: 2020-06-23T17:00:00-00:00
 slug: wwdc-2020-arkit-4
 type: short-post
 link: https://developer.apple.com/wwdc20/10611
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 * Location anchors

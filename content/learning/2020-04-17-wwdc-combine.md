@@ -4,7 +4,7 @@ date: 2020-04-17T10:00:00-00:00
 slug: wwdc-introducing-combine
 type: short-post
 link: https://developer.apple.com/videos/play/wwdc2019/722
-subjects: ["ios", "swift", "wwdc"]
+subjects: ["ios", "swift", "wwdc", "wwdc-2019"]
 ---
 
 

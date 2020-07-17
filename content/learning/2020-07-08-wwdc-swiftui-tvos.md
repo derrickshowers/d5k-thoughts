@@ -4,7 +4,7 @@ date: 2020-07-08T10:00:00-00:00
 slug: wwdc-2020-swiftui-tvos
 type: short-post
 link: https://developer.apple.com/wwdc20/10042
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 I was hoping I could get a feel for what it’s like to develop on tvOS, but not really. Just talks about some of the new SwiftUI goodness and how it can be applied to a tvOS app.

@@ -4,7 +4,7 @@ date: 2020-07-16T14:00:00-00:00
 slug: wwdc-2020-lists
 type: short-post
 link: https://developer.apple.com/wwdc20/10026
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 Overview of all the new additions to collection views as far as lists (think UITableView). There’s lots of neat improvements including self sizing cells being default and just generally more dynamic and flexible with sizing.

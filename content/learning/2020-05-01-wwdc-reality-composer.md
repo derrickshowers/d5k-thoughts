@@ -4,7 +4,7 @@ date: 2020-05-01T10:00:00-00:00
 slug: wwdc-reality-composer
 type: short-post
 link: https://developer.apple.com/videos/play/wwdc2019/609/
-subjects: ["ios", "swift", "wwdc"]
+subjects: ["ios", "swift", "wwdc", "wwdc-2019"]
 ---
 
 * Anatomy of Reality Composer project: scene -> anchors, objects, behaviors.

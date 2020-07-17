@@ -4,7 +4,7 @@ date: 2020-06-25T13:00:00-00:00
 slug: wwdc-2020-photos-picker
 type: short-post
 link: https://developer.apple.com/wwdc20/10652
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 * If you use Photos picker, no more permissions prompting!

@@ -4,7 +4,7 @@ date: 2020-07-08T10:30:00-00:00
 slug: wwdc-2020-swiftui-app-essentials
 type: short-post
 link: https://developer.apple.com/wwdc20/10037
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 This session is all about creating an entire SwiftUI app using nothing but SwiftUI. Even thought I’m not really doing a lot of SwiftUI, interesting to see how they talk about the hierarchy between App, Scenes, View. Also this app is only a few lines of code (entire app!) and works on macOS, iOS, and watchOS!

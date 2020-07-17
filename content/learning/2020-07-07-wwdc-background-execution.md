@@ -4,7 +4,7 @@ date: 2020-07-07T11:00:00-00:00
 slug: wwdc-2020-background-execution
 type: short-post
 link: https://developer.apple.com/wwdc20/10063
-subjects: ["ios", "wwdc"]
+subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
 
 Almost didn’t watch because they started out saying it was more of an advanced course on background execution, but not really. Great overview of the different background modes and how the system prioritizes tasks based on a number of factors.
