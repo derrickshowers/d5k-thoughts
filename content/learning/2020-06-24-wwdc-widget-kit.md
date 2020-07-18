@@ -2,7 +2,6 @@
 title: "WWDC 2020: Meet WidgetKit"
 date: 2020-06-24T15:00:00-00:00
 slug: wwdc-2020-widget-kit
-type: short-post
 link: https://developer.apple.com/wwdc20/10028
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

@@ -2,7 +2,6 @@
 title: "dotSwift 2020: The Combine Triad"
 date: 2020-05-29T14:00:00-00:00
 slug: dot-swift-combine
-type: short-post
 link: https://www.dotconferences.com/2020/02/donny-wals-the-combine-triad
 subjects: ["ios"]
 ---

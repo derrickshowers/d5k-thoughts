@@ -2,7 +2,6 @@
 title: "The Science of Cooking: Rice and Grains"
 date: 2020-05-21T21:00:00-00:00
 slug: science-of-cooking-rice-grains
-type: short-post
 link: https://www.amazon.com/Science-Cooking-Question-Answered-Perfect/dp/1465463690
 subjects: ["culinary"]
 ---

@@ -2,7 +2,6 @@
 title: "Mixology Masterclass: Exploring the Palate"
 date: 2020-06-03T21:00:00-00:00
 slug: masterclass-mixology-palate
-type: short-post
 link: https://www.masterclass.com/classes/lynnette-marrero-and-ryan-chetiyawardana-teach-mixology
 subjects: ["culinary"]
 ---

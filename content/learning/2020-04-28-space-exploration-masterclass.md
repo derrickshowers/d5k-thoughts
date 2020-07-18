@@ -2,7 +2,6 @@
 title: "Chris Hadfield’s Masterclass: Conclusion"
 date: 2020-04-28T20:00:00-00:00
 slug: masterclass-space-exploration-conclusion
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

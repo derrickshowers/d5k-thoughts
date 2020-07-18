@@ -2,7 +2,6 @@
 title: "Effective Objective-C, Items 2, 3, 4"
 date: 2020-01-18T00:00:00-00:00
 slug: effective-objc-items-2-3-4
-type: short-post
 link: https://www.effectiveobjectivec.com
 subjects: ["objective-c", "ios"]
 ---

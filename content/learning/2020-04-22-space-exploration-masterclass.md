@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Getting to Mars"
 date: 2020-04-22T21:00:00-00:00
 slug: masterclass-mars-getting-there
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

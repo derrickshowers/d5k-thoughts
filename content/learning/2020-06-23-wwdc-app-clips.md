@@ -2,7 +2,6 @@
 title: "WWDC 2020: Explore App Clips"
 date: 2020-06-23T13:00:00-00:00
 slug: wwdc-2020-app-clips
-type: short-post
 link: https://developer.apple.com/wwdc20/10174
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

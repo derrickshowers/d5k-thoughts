@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Spacewalks"
 date: 2020-04-18T17:00:00-00:00
 slug: masterclass-spacewalks
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

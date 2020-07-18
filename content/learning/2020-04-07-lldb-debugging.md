@@ -2,7 +2,6 @@
 title: "LLDB Debugging: UI"
 date: 2020-04-07T14:00:00-00:00
 slug: lldb-debugging-ui
-type: short-post
 link: https://medium.com/ios-os-x-development/dynamically-modify-ui-via-lldb-expression-1b354254e1dd
 subjects: ["xcode", "ios", "debugging"]
 ---

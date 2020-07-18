@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: Major Developments in Economics"
 date: 2020-05-04T20:00:00-00:00
 slug: masterclass-economics-major-developments
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

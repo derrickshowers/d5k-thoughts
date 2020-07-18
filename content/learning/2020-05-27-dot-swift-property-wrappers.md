@@ -2,7 +2,6 @@
 title: "dotSwift 2020: Property Wrappers"
 date: 2020-05-27T07:00:00-00:00
 slug: dot-swift-property-wrappers
-type: short-post
 link: https://www.dotconferences.com/2020/02/erica-sadun-property-wrappers
 subjects: ["ios"]
 ---

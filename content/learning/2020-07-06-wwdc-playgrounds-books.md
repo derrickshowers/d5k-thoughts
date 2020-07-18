@@ -2,7 +2,6 @@
 title: "WWDC 2020: Create Swift Playgrounds content for iPad and Mac"
 date: 2020-07-06T14:00:00-00:00
 slug: wwdc-2020-playgrounds-books
-type: short-post
 link: https://developer.apple.com/wwdc20/10654
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

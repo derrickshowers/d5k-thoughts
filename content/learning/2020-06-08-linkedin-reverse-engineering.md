@@ -2,7 +2,6 @@
 title: "Reverse Engineering an iOS app"
 date: 2020-06-08T14:00:00-00:00
 slug: linkedin-meetup-reverse-engineering
-type: short-post
 subjects: ["ios"]
 ---
 

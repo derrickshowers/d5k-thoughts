@@ -2,7 +2,6 @@
 title: "WWDC 2020: Build SwiftUI Apps for tvOS"
 date: 2020-07-08T10:00:00-00:00
 slug: wwdc-2020-swiftui-tvos
-type: short-post
 link: https://developer.apple.com/wwdc20/10042
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

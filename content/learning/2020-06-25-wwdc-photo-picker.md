@@ -2,7 +2,6 @@
 title: "WWDC 2020: Meet the new Photos picker"
 date: 2020-06-25T13:00:00-00:00
 slug: wwdc-2020-photos-picker
-type: short-post
 link: https://developer.apple.com/wwdc20/10652
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

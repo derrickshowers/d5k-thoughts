@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: Health Care"
 date: 2020-05-12T15:00:00-00:00
 slug: masterclass-economics-healthcare
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Capsules and Shuttles"
 date: 2020-02-22T11:00:00-00:00
 slug: masterclass-capsules-shuttles
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

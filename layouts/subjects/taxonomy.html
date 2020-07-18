@@ -1,45 +1,19 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-    <!-- Page Header -->
-    <header class="intro-header" style="background-image: 
-    
-    {{if .Params.bgOverlayOpacity }}
-      linear-gradient( rgba(0, 0, 0, {{ .Params.bgOverlayOpacity }}), rgba(0, 0, 0, {{ .Params.bgOverlayOpacity }}) ), 
-    {{end}}
-    
-    {{if .Params.image }}
-      url('{{ .Site.BaseURL }}//{{ .Params.image }}')
-    {{else}}
-      url('{{ .Site.BaseURL }}/img/home-bg.jpg')
-    {{end}}">     
-    
-    <div class="container">
-       <div class="row">
-         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-           <div class="site-heading">
-             <h1>{{ .Title }}</h1>
-             <hr class="small">
-             <span class="subheading">{{ .Description }}</span>
-           </div>
-         </div>
-       </div>
-     </div>
-    </header>
-
-    <!-- Main Content -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          {{ range .Pages }}
-            <div class="post-preview short-post">
-                <h3><a target="_blank" href="{{ .Params.link }}">{{ .Title }}</a></h3>
-                <span class="content">
-                    {{ .Content }}
-                </p>
-            </div>
-          {{ end }}
-        </div>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ range .Pages }}
+      <div class="post-preview short-post">
+        <h3><a target="_blank" href="{{ .Params.link }}">{{ .Title }}</a></h3>
+        <span class="content">
+          {{ .Content }}
+        </span>
+        <br/>
       </div>
+      {{ end }}
     </div>
+  </div>
+</div>
 
-{{ partial "footer.html" . }}
+{{end}}

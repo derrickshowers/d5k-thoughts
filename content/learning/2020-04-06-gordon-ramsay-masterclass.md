@@ -2,7 +2,6 @@
 title: "Gordon Ramsay Masterclass: Roasted Chicken"
 date: 2020-04-06T18:00:00-00:00
 slug: gordon-ramsay-roasted-chicken
-type: short-post
 link: https://www.masterclass.com/classes/gordon-ramsay-teaches-cooking-restaurant-recipes-at-home
 subjects: ["culinary"]
 ---

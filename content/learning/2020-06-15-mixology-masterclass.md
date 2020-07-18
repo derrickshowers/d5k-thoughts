@@ -2,7 +2,6 @@
 title: "Mixology Masterclass: Solo Starters: Mojito and Whiskey Smash"
 date: 2020-06-15T19:00:00-00:00
 slug: masterclass-solo-starters
-type: short-post
 link: https://www.masterclass.com/classes/lynnette-marrero-and-ryan-chetiyawardana-teach-mixology
 subjects: ["culinary"]
 ---

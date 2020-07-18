@@ -2,7 +2,6 @@
 title: "Self Learning Playground: Property Wrappers"
 date: 2020-06-19T11:00:00-00:00
 slug: playground-property-wrappers
-type: short-post
 link: https://gist.github.com/derrickshowers/b550f7b4af8d0428d57c037a033ffee6
 subjects: ["ios", "swift"]
 ---

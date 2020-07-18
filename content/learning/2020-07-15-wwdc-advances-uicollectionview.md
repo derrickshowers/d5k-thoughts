@@ -2,7 +2,6 @@
 title: "WWDC 2020: Advances in UICollectionView"
 date: 2020-07-15T15:00:00-00:00
 slug: wwdc-2020-advances-uicollectionview
-type: short-post
 link: https://developer.apple.com/wwdc20/10097
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

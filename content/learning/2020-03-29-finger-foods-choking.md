@@ -2,7 +2,6 @@
 title: "Choking Hazards and Finger Foods"
 date: 2020-03-29T13:00:00-00:00
 slug: masterclass-iss
-type: short-post
 link: https://www.amazon.com/Baby-Led-Weaning-Essential-Introducing-Foods/dp/161519021X
 subjects: ["parenting"]
 ---

@@ -2,7 +2,6 @@
 title: "TED Talk: The wonderful and terrifying implications of computers that can learn"
 date: 2020-06-04T15:00:00-00:00
 slug: ted-talk-ai
-type: short-post
 link: https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn/
 subjects: ["miscellaneous"]
 ---

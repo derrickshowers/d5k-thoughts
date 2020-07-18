@@ -2,7 +2,6 @@
 title: "Masterclass Live with Neil deGrasse Tyson"
 date: 2020-04-08T20:00:00-00:00
 slug: live-masterclass-neil-degrasse-tyson
-type: short-post
 link: https://youtu.be/zII6PlE-33A
 subjects: ["miscellaneous"]
 ---

@@ -2,7 +2,6 @@
 title: "Professional Chef: Roux"
 date: 2020-05-25T13:00:00-00:00
 slug: professional-chef-roux
-type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
 subjects: ["culinary"]
 ---

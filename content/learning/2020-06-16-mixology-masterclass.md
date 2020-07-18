@@ -2,7 +2,6 @@
 title: "Mixology Masterclass: Intimate Classics: The Old Fashioned"
 date: 2020-06-16T09:00:00-00:00
 slug: masterclass-intimate-classics
-type: short-post
 link: https://www.masterclass.com/classes/lynnette-marrero-and-ryan-chetiyawardana-teach-mixology
 subjects: ["culinary"]
 ---

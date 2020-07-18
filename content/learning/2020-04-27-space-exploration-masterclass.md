@@ -2,7 +2,6 @@
 title: "Chris Hadfield’s Masterclass: Living on Mars"
 date: 2020-04-27T21:00:00-00:00
 slug: masterclass-mars-living
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

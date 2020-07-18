@@ -2,7 +2,6 @@
 title: "WWDC 2020: App Essentials in SwiftUI"
 date: 2020-07-08T10:30:00-00:00
 slug: wwdc-2020-swiftui-app-essentials
-type: short-post
 link: https://developer.apple.com/wwdc20/10037
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

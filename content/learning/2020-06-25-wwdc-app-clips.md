@@ -2,7 +2,6 @@
 title: "WWDC 2020: Create app clips for other businesses"
 date: 2020-06-25T14:00:00-00:00
 slug: wwdc-2020-app-clips-other-businesses
-type: short-post
 link: https://developer.apple.com/wwdc20/10118
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

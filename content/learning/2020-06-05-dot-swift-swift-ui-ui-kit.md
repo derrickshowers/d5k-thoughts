@@ -2,7 +2,6 @@
 title: "dotSwift 2020: Integrating SwiftUI & UIKit"
 date: 2020-06-05T13:00:00-00:00
 slug: dot-swift-swift-ui-ui-kit
-type: short-post
 link: https://www.dotconferences.com/2020/02/ishmael-shabazz-integrating-swiftui-and-ui-kit
 subjects: ["ios"]
 ---

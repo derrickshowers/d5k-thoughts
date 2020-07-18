@@ -2,7 +2,6 @@
 title: "Associated Type"
 date: 2020-03-24T20:00:00-00:00
 slug: associated-type
-type: short-post
 link: https://www.hackingwithswift.com/example-code/language/what-is-a-protocol-associated-type
 subjects: ["swift", "ios"]
 ---

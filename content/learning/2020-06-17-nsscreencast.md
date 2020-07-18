@@ -2,7 +2,6 @@
 title: "NSScreencast: Swift Property Wrappers"
 date: 2020-06-17T12:00:00-00:00
 slug: nsscreencast-property-wrappers
-type: short-post
 link: https://nsscreencast.com/episodes/423-swift-property-wrappers
 subjects: ["ios", "swift"]
 ---

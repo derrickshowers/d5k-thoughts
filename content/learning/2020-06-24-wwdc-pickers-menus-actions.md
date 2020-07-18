@@ -2,7 +2,6 @@
 title: "WWDC 2020: Design with iOS pickers, menus and actions"
 date: 2020-06-24T13:00:00-00:00
 slug: wwdc-2020-pickers-menus-actions
-type: short-post
 link: https://developer.apple.com/wwdc20/10205
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

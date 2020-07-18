@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: Economics"
 date: 2020-05-02T11:00:00-00:00
 slug: masterclass-what-is-economics
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

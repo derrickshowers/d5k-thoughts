@@ -2,7 +2,6 @@
 title: "The Science of Cooking: Meat"
 date: 2020-06-07T15:00:00-00:00
 slug: science-of-cooking-meat
-type: short-post
 link: https://www.amazon.com/Science-Cooking-Question-Answered-Perfect/dp/1465463690
 subjects: ["culinary"]
 ---

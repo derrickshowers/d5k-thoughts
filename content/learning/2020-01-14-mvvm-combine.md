@@ -2,7 +2,6 @@
 title: "MVVM with Combine Tutorial for iOS: ViewModels"
 date: 2020-01-14T00:00:00-00:00
 slug: mvvm-combine-2
-type: short-post
 link: https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
 subjects: ["swift", "ios"]
 ---

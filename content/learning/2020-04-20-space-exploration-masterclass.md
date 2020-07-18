@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Simulations"
 date: 2020-04-20T21:00:00-00:00
 slug: masterclass-simulations
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

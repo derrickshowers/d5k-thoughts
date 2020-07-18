@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: What It Feels Like To Launch and Atmospheric Drag"
 date: 2020-02-16T01:00:00-00:00
 slug: masterclass-launch-and-drag
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

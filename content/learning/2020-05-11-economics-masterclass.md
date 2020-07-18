@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: Taxes"
 date: 2020-05-11T14:00:00-00:00
 slug: masterclass-economics-taxes
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

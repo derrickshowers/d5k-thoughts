@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: Reading & Writing Economics, Seeing the World as an Economist, Closing"
 date: 2020-05-22T10:00:00-00:00
 slug: masterclass-economics-closing-remarks
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

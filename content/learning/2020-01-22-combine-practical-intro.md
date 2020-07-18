@@ -2,7 +2,6 @@
 title: "Combine: A Practical Introduction"
 date: 2020-01-22T00:00:00-00:00
 slug: combine-practical-intro
-type: short-post
 link: https://youtu.be/RysM_XPNMTw
 subjects: ["swift", "ios"]
 ---

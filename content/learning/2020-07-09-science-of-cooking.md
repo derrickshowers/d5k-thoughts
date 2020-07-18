@@ -2,7 +2,6 @@
 title: "The Science of Cooking: Fish"
 date: 2020-07-09T11:00:00-00:00
 slug: science-of-cooking-fish
-type: short-post
 link: https://www.amazon.com/Science-Cooking-Question-Answered-Perfect/dp/1465463690
 subjects: ["culinary"]
 ---

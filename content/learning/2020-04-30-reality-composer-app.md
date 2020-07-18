@@ -2,7 +2,6 @@
 title: "Get to know Reality Composer"
 date: 2020-04-30T14:00:00-00:00
 slug: reality-composer-app
-type: short-post
 link: https://developer.apple.com/videos/play/tech-talks/610
 subjects: ["ios", "swift"]
 ---

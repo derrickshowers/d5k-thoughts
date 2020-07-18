@@ -2,7 +2,6 @@
 title: "LLDB Debugging: Overview"
 date: 2020-04-13T14:00:00-00:00
 slug: lldb-debugging-overview
-type: short-post
 link: https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49
 subjects: ["xcode", "ios", "debugging"]
 ---

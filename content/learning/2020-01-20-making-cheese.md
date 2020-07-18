@@ -2,7 +2,6 @@
 title: "Cheese Making"
 date: 2020-01-20T00:00:00-00:00
 slug: cheese-making
-type: short-post
 link: https://www.williams-sonoma.com/products/cheese-making-kit-mozzarella-ricotta/?catalogId=21&sku=8211062
 subjects: ["culinary"]
 ---

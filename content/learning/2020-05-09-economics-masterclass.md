@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: The Economic Theory and Solution of Crises"
 date: 2020-05-09T17:00:00-00:00
 slug: masterclass-economics-crisis
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

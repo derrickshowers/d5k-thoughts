@@ -2,7 +2,6 @@
 title: "Today at Apple: At home sessions"
 date: 2020-04-11T13:00:00-00:00
 slug: today-at-apple-at-home-photography
-type: short-post
 link: https://www.apple.com/today/feature/today-at-home/
 subjects: ["photography"]
 ---

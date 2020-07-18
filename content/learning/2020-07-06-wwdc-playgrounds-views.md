@@ -2,7 +2,6 @@
 title: "WWDC 2020: Build a SwiftUI view in Swift Playgrounds"
 date: 2020-07-06T14:00:00-00:00
 slug: wwdc-2020-playgrounds-swiftui-view
-type: short-post
 link: https://developer.apple.com/wwdc20/10643
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

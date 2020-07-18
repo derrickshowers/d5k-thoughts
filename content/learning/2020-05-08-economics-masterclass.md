@@ -2,7 +2,6 @@
 title: "Paul Krugman’s Masterclass: How ‘08 Happened"
 date: 2020-05-08T20:00:00-00:00
 slug: masterclass-economics-2008
-type: short-post
 link: https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society
 subjects: ["miscellaneous"]
 ---

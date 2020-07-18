@@ -2,7 +2,6 @@
 title: "WWDC 2020: Detect Body and Hand Pose with Vision"
 date: 2020-06-23T17:30:00-00:00
 slug: wwdc-2020-vision-framework
-type: short-post
 link: https://developer.apple.com/wwdc20/10653
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---

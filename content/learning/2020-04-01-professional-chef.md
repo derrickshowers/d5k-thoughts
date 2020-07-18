@@ -2,7 +2,6 @@
 title: "Professional Chef: Beef"
 date: 2020-04-01T21:00:00-00:00
 slug: professional-chef-beef
-type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
 subjects: ["culinary"]
 ---

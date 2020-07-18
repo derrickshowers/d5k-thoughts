@@ -2,7 +2,6 @@
 title: "dotSwift 2020: MVC: Many View Controllers"
 date: 2020-05-24T11:00:00-00:00
 slug: dot-swift-mvc
-type: short-post
 link: https://www.dotconferences.com/2020/02/guilherme-rambo-mvc-many-view-controllers
 subjects: ["ios"]
 ---

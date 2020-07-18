@@ -2,7 +2,6 @@
 title: "Professional Chef: Food Safety Basics"
 date: 2020-01-23T00:00:00-00:00
 slug: professional-chef-food-safety
-type: short-post
 link: https://www.amazon.com/Professional-Chef-Culinary-Institute-America/dp/0470421355/
 subjects: ["culinary"]
 ---

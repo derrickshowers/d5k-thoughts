@@ -2,7 +2,6 @@
 title: "WWDC: Combine In Practice"
 date: 2020-02-15T10:00:00-00:00
 slug: wwdc-combine-in-practice
-type: short-post
 link: https://developer.apple.com/wwdc19/721
 subjects: ["swift", "ios", "wwdc", "wwdc-2019"]
 ---

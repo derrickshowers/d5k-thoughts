@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Orbital Mechanics, Fuels, and Propulsion"
 date: 2020-02-22T10:00:00-00:00
 slug: masterclass-orbits-fuels
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

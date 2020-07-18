@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: Astronaut Training"
 date: 2020-01-27T00:00:00-00:00
 slug: masterclass-astronaut-training
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---

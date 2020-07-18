@@ -2,7 +2,6 @@
 title: "Chris Hadfield's Masterclass: ISS Continued"
 date: 2020-04-04T14:00:00-00:00
 slug: masterclass-iss-2
-type: short-post
 link: https://www.masterclass.com/classes/chris-hadfield-teaches-space-exploration
 subjects: ["miscellaneous"]
 ---
