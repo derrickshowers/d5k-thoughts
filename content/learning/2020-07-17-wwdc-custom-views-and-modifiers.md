@@ -2,7 +2,6 @@
 title: "WWDC 2020: Add custom views and modifiers to the Xcode Library"
 date: 2020-07-17T14:00:00-00:00
 slug: wwdc-2020-custom-views-modifiers
-type: short-post
 link: https://developer.apple.com/wwdc20/10649
 subjects: ["ios", "wwdc", "wwdc-2020"]
 ---
