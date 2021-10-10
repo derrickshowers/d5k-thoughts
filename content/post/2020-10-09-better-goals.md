@@ -1,7 +1,7 @@
 ---
 title: My Goal to Get Rid of Goals
 description: TBD
-date: 2022-10-09T00:00:00-00:00
+date: 2021-10-09T00:00:00-00:00
 slug: better-goals
 image: images/uploads/better-goals-header.jpg
 tags: ["mental-health"]
