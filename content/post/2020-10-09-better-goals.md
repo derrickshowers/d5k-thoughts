@@ -1,0 +1,32 @@
+---
+title: My Goal to Get Rid of Goals
+description: TBD
+date: 2022-10-09T00:00:00-00:00
+slug: better-goals
+image: images/uploads/better-goals-header.jpg
+tags: ["mental-health"]
+comments: true
+bgOverlayOpacity: 0.25
+---
+
+I’ve been trying to find the perfect goal system for a few years. Every time the new year hits, I’m the kind of person who has to spend hours and hours deciding on the perfect set of goals for myself. I really got into this a couple years ago when I introduced a “goals system” into my life, more on that later. Up until the past couple months, I’ve been pretty committed to this system. Here’s the thing, though. It’s exhausting! And I began to think to myself, is it really helping me become the person I want to become? Or is it just something my overactive perfectionist side cannot cope with failing at?
+
+Over the past couple of week, I’ve come up with something new that is less structured, but hopefully keeps me aligned with what I value most in life. And today, on World Mental Health Day, I’m writing it all down and sharing out to whoever ends up reading this. For a couple reasons – it’s a way for me to make sure it all makes sense, while at the same time perhaps you can pick up bits and pieces to prioritize your own.
+
+Let’s begin with what I was doing before. At the beginning of the year I’d come up with mega goals I wanted to focus on for the whole year. And I’d try to make them fun, although I’m not the most creative when it comes to catchy names so don’t judge. In 2020 my four were: Dare weight to rise above 175, Eat Less Taste More, Eradicate Anxiety, and Advocate Swift. So then in January, I had things join a gym, learn how to make cheese, find a therapist, and Combine tutorials (a new Swift framework at the time). Pretty typical goal setting. I would check in on them at the end of the month and give myself a pass/fail. Then at the end of the year I’d evaluate how many of these goals I actually completed and usually get real sad by all the goals I never completed (I’m half kidding). The most exhausting part of this whole thing was the dreaded end of the month. I’d do a shit ton of overthinking on goals for next month. My perfectionist side would kick in so we’d (me and my perfectionist) would argue for hours on what to go with. What would I enjoy? What means something? Is it something I even have time to do? Or… I haven’t the slightly clue and the new month starts tomorrow! Exhausting.
+
+So like I mentioned before, I wanted a change. What really started driving this was one of my four 2021 goals – self compassion. All of what I just wrote about wasn’t very self compassionate. It was this mean judgy personal trainer yelling at me at the end of every month (and he was extra mean at the end of the year!). Knowing how I work, though, I still needed something that has a little structure. Just saying, “oh I’m going to go out and just be better at x, y, z” wouldn’t work. I envy people who that does work for and if that’s you, take advantage of that. But for me, I need to have some structure, some self accountability, some proof almost.
+
+What I ended up landing on is based a lot on this concept of a Level 10 Life. The concept I think is based on something introduced in Hal Erod’s Miracle Morning. Don’t let that throw you, though. I know nothing about the book. I only imagine it has something to do with “doing these 25 things before 5am will turn you into the next CEO.” Which I definitely don’t buy into (I also have nothing again, just not for me). Even when I heard about this Level 10 Life thing from my wife I was a bit skeptical. After I started looking into and thinking about it some more, I opened up to the idea. And now I’m mostly all in. It’s the basis of my new system of having goals without really having goals.
+
+Before I get to what it means to not have goals, let me quickly explain my interpretation of Level 10 Life. You pick ten areas of your life which make you whole. It shouldn’t be all that specific. Just without one of these ten things you’d have a pretty shitty life. Then you rate each of these areas on where you think you’re at which helps you figure out where to focus your time and energy. Lots of people seem to get creative with this. Do a quick Google search and you’ll see all kinds of colorful bar graphs and pie charts and even more elaborate designs. I’m not all that creative when it comes to these things, but I did try to choose an emoji and associated color for each category. So here’s what I came up with. You’ll see the ten categories I’ve chosen and how I rated my current state for each one.
+
+<insert level 10 here>
+
+Next step was just to jot some things down in each category I felt I was already doing pretty well and things I want to do or be better at (I did this before coming up with the rating to help figure out where I fell on each category).
+
+Finally to put this all into place, I migrated these categories to all the apps I use to keep myself organized. For instance, I use Things for my todos, so now Things has these 10 categories as areas (their term for project areas). Tags for my time tracking app. Even on Twitter, created custom lists around some of these categories so if I’m feeling like I need a little of my fun category, I’ll look at my fun Twitter list – no politics, no programming, just silly stuff to make me laugh. As far as self accountability, my plan is to just reflect on progress weekly and monthly by journaling. No more pass/fail. Just a “hey how’s it going” type of thing. Doesn’t that sound much more kind and self compassionate?
+
+Here’s the thing I’ll leave you with. So much of our life today is dictated by deadlines. Someone always needs something from you by a certain date. Why double down on that nonsense and give yourself more to stress about? I do, however, think there’s value in constantly evaluating what you’re doing at any given time is true to what’s meaningful. This new take on goals is my approach to solve both. Give myself a method to stay on track to what matters most in a way that’s both self compassionate and not one more thing that needs to get checked off by the end of the day.
+
+Check back for a future post where I plan to nerd out a bit in what apps I use to keep this all organized.
