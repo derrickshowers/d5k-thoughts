@@ -6,7 +6,7 @@ slug: better-goals
 image: images/uploads/better-goals-header.png
 tags: ["mental-health"]
 comments: true
-bgOverlayOpacity: 0.25
+bgOverlayOpacity: 0.50
 ---
 
 I’ve been trying to find the perfect approach to goal setting for a few years. Every time the new year hits, I’m the kind of guy who spends hours and hours – ok more like days and days – deciding on my perfect set of goals, and a plan around how to execute on them. I really got into this a couple years ago when I introduced a “goals system” into my life. 🤓 I’m happy to report, up until the past month or so, I’ve been pretty committed to this system. Here’s the thing, though… It’s exhausting! And so I began to think to myself, are hitting these goals _really_ helping me become the person I want to become? Or are they just something my overactive perfectionist side cannot cope with failing at? (Spoiler alert: it’s option b)
