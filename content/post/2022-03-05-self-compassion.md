@@ -6,7 +6,7 @@ slug: self-compassion
 image: images/uploads/self-compassion-header.jpg
 tags: ["mental-health"]
 comments: true
-bgOverlayOpacity: 0.50
+bgOverlayOpacity: 0.25
 ---
 
 It's December 2020. I'm busy planning my 2021 goals. In prior years, I've always had at least one goal around anxiety or mental health, but this year I am determined to zero in on self compassion. I made it my number one goal! It was a bit ambiguous: "Prioritize self-compassion and self-confidence," but it needed to be. If not, I knew I would optimize the hell out of it and end up being *less* self compassionate. When I create goals, I go all in. I need to complete them. When I don't, I tend to become incredibly hard on myself. I don't need an accountability partner, my accountability partner is myself, and this particular accountability partner is ruthless. This is all to say, having a goal to be more self compassionate is *really hard*, especially for someone like me. It's quite meta, too. The idea of turning myself into a more self compassionate self is inherently not all that self compassionate. But the first step, I decided back in 2021, is to define what self compassion even is.
@@ -48,3 +48,5 @@ I suppose guilt is my version of not being ok with "it's ok to be selfish." I fe
 So here I am in 2022, a year after making an initial goal of being more self compassionate. Who knows, maybe in another year I'll look back at this and have a whole new set of enemies. This year I'm going to focus on making all of them into my friend instead of setting goals to defeat them. Setting actionable goals can be good in certain circumstances (like maybe delivering on professional commitments), but I've found in my personal life it's more about checking in through reflection and light planning. I have a routine where every morning I start with a meditation, reflect by journaling, and lightly planning the rest of my day. In the evening, a similar routine: reflect on the day and lightly plan some main themes for the next day. I also feel it's important to have some blocks of time to just think – maybe sitting on a park bench or laying in bed. And finally, some time put aside to talk to someone – a therapist, a coach, or a friend. 
 
 So that's the game plan for 2022 – turn these self compassion enemies into friends. In actuality, these enemies all serve as some pretty damn good accountability partners, just so long as it's not at the expense of my mental health.
+
+_Header photo by [Chris Yang](https://unsplash.com/@chrisyangchrisfilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/imposter-syndrome?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
