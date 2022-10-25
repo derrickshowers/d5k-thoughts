@@ -15,20 +15,13 @@ What are the things I want to prioritize in my newly created routine? First, a c
 
 Here is the current list of activities I try to complete every day:
 
-• A workout of some sort (currently a 2+ mile walk through he park)
-
-• Meditation
-
-• Reflection (gratitude, affirmation, random thoughts)
-
-• MeStandup (planning my day)
-
-• Journaling (a more focused reflection)
-
-• Reading (a chapter or two in a book, or an article, ~30 minutes)
-
-• 80oz of water
-
+• A workout of some sort (currently a 2+ mile walk through he park)\
+• Meditation\
+• Reflection (gratitude, affirmation, random thoughts)\
+• MeStandup (planning my day)\
+• Journaling (a more focused reflection)\
+• Reading (a chapter or two in a book, or an article, ~30 minutes)\
+• 80oz of water\
 • Evening reflection
 
 And the routine I’ve established:
